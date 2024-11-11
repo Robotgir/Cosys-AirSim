@@ -4,7 +4,7 @@
 #define GEODETIC_CONVERTER_H_
 
 #include "math.h"
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 namespace geodetic_converter
 {
